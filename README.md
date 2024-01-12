@@ -59,4 +59,4 @@ Run the development server:
 py app.py
 ```
 
-Open your browser and navigate to http://localhost:8888 to explore the server!
+Open your browser and navigate to http://127.0.0.1:8888 to explore the server!
