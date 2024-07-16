@@ -2,6 +2,9 @@
 
 Python implementation of a basic HTTP server
 
+![image](https://github.com/user-attachments/assets/5cd7d156-a52e-41aa-ad8a-0c9bfb5cc5cf)
+
+
 ## Overview
 
 This project is a simple HTTP server implemented entirely from scratch using Python. The server is capable of handling basic HTTP requests and serving static files. It provides a foundation for understanding the inner workings of an HTTP server and can be used as a learning resource or a starting point for more advanced server development.
